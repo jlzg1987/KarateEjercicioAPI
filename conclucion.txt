@@ -1,0 +1,6 @@
+Este es mi primer proyecto de automatización
+Todo es nuevo para mi me todo tiempo entender que son freeware para realizar tess de evaluación para las plataformas web
+El programa intellij es totalmende nuevo tambien pero facil de usar tiene tiene una semejansa con visual studio code
+para las evaluacion con backend usando karate me parece sencilla.
+Me gustaría mucho aprender usar de manera correcta estos freeware automatizados ya que conozco muy paco y lo que he realizado
+es un poco empirico.
